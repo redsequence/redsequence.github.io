@@ -1,6 +1,7 @@
 body {
     padding-top: 20px;
     padding-bottom: 40px;
+    overflow-y: scroll;
 }
 
 /* Custom container */
@@ -40,4 +41,8 @@ body {
 
 .logo-box {
     min-height: 100px;
+}
+
+table td {
+    min-width: 100px;
 }
