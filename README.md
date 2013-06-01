@@ -1,4 +1,4 @@
-redsequence.com
-===============
+www.redsequence.com
+===================
 
 Red Sequence Website
