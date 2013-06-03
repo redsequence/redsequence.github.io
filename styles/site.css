@@ -36,7 +36,23 @@ body {
 }
 
 .javascript-logos {
-    margin: 20px 0;
+    padding: 25px;
+}
+
+.javascript-logos .row-fluid .span3 {
+    padding: 10px;
+}
+
+@media(max-width:767px) {    
+    .javascript-logos {
+        padding: 15px;
+    }
+
+    .javascript-logos .row-fluid .span3 {
+        padding: 5px;
+        float: left;
+        width: 50%;
+    }
 }
 
 .consultancy p + h4 {
